@@ -68,5 +68,11 @@ I have practical experience in modern web application development, utilizing RES
 * **LinkedIn:** [linkedin.com/in/pedro-ferreira021](https://www.linkedin.com/in/pedro-ferreira021)
 * **Email:** pedro_ferreira155@hotmail.com
 
-### My GitHub Stats
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroFerreira3&show_icons=true&theme=transparent&rank_icon=github&border_radius=5)
+---
+
+### Contribution Activity
+![Snake Animation](https://raw.githubusercontent.com/PedroFerreira3/PedroFerreira3/output/github-contribution-grid-snake-dark.svg)
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;Systems+Analysis+Student;Python+and+React+Enthusiast" alt="Typing SVG" />
+</p>
