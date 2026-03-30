@@ -1,52 +1,52 @@
-# 👋 Olá! Eu sou Pedro Ferreira
+# Olá, eu sou o Pedro Ferreira
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na FATEC Ourinhos  
-💻 Programador na Interasoft, desenvolvendo soluções educacionais e plataformas online  
-🚀 Apaixonado por tecnologia, acessibilidade e impacto social por meio do código  
+Sou um **Desenvolvedor Full Stack** em formação, focado em criar soluções eficientes, escaláveis e de alta qualidade. Atualmente, curso Análise e Desenvolvimento de Sistemas na FATEC Ourinhos e atuo como Estagiário de Desenvolvimento no Grupo CPCON Brasil.
 
----
-
-## 🧠 Sobre mim
-
-Sou Desenvolvedor de Software com experiência prática em back-end e desenvolvimento web, atuando principalmente com **Python, Django, Flask, HTML, CSS, JavaScript e SQL**.
-
-Participo de projetos com foco em educação e inclusão, como:
-- 🧠 Plataforma educacional com Django e APIs REST
-- 🧩 Sistema para clínicas de psicologia (agendamento e organização de atendimentos)
-- 🎯 Projeto de Visão Computacional para auxiliar pessoas com deficiência visual
-
-Estou sempre em busca de desafios que me permitam **aprender, evoluir e contribuir com propósito**.
+Tenho experiência prática na construção de aplicações web modernas, utilizando arquiteturas baseadas em APIs REST, conteinerização com Docker e boas práticas de desenvolvimento de software.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+### Experiência e Atuação Profissional
 
-<div style="display: inline_block"><br/>
-  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="center" alt="Django" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
-  <img align="center" alt="Flask" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
-  <img align="center" alt="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img align="center" alt="GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-</div>
+* **Grupo CPCON Brasil | Estagiário de Desenvolvimento Full Stack** (Set/2025 – Atual)
+    * Desenvolvimento de aplicações com Next.js, React, TypeScript e Tailwind CSS.
+    * Construção de ecossistemas backend com Python (Django e Django REST Framework).
+    * Padronização de ambientes de desenvolvimento utilizando Docker.
+    * Integração e manipulação de bancos de dados PostgreSQL.
 
----
-
-## 📈 GitHub Stats
-
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroFerreira3&show_icons=true&theme=radical)
+* **Interasoft | Programador** (Jan/2025 – Jul/2025)
+    * Desenvolvimento de plataforma web educacional.
+    * Mentoria técnica de estagiários e revisão de código (Code Review).
+    * Produção de conteúdos técnicos e exercícios práticos para cursos de Java e MySQL.
 
 ---
 
-## 📫 Como me encontrar
+### Principais Tecnologias
 
-- 📧 Email: pedro_ferreira155@hotmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/pedro-ferreira021)  
-- 🧪 Sempre aberto a colaborações e novos desafios!
+* **Frontend:** Next.js, React, TypeScript, Tailwind CSS, JavaScript (ES6+).
+* **Backend:** Python (Django, Django REST Framework, Flask), Java.
+* **Bancos de Dados:** PostgreSQL, MySQL, SQLite e modelagem de dados relacionais.
+* **DevOps & Ferramentas:** Docker, Git, GitHub (GitFlow), Postman, Linux/CLI.
+* **Qualidade & Processos:** Testes de Software (Funcionais e Regressão), Metodologias Ágeis (Scrum/Kanban), Acessibilidade Web e Design Responsivo.
 
 ---
 
-> *"Transformar ideias em soluções funcionais, acessíveis e de impacto real — é isso que me move."*
+### Projetos em Destaque
+
+* **Sistema de Gestão para Clínicas Psicológicas:** Aplicação Full Stack para agendamento e organização de atendimentos, focada em usabilidade e requisitos de acessibilidade.
+* **Visão Computacional para Acessibilidade:** Projeto social em Python e OpenCV que utiliza feedback auditivo para auxiliar a locomoção de pessoas com deficiência visual.
+* **Plataforma de Ensino Online:** Sistema completo para consumo de cursos e interação com materiais didáticos.
+
+---
+
+### Formação e Idiomas
+
+* [cite_start]**Tecnólogo em Análise e Desenvolvimento de Sistemas** – FATEC Ourinhos (Conclusão prevista: Dez/2026) [cite: 43, 101]
+* [cite_start]**Inglês:** Nível Avançado (Certificado TOEIC - 690 pontos) [cite: 45, 104, 105]
+
+---
+
+### Contato
+
+* **LinkedIn:** [linkedin.com/in/pedro-ferreira021](https://www.linkedin.com/in/pedro-ferreira021)
+* **Email:** pedro_ferreira155@hotmail.com
