@@ -67,3 +67,6 @@ I have practical experience in modern web application development, utilizing RES
 
 * **LinkedIn:** [linkedin.com/in/pedro-ferreira021](https://www.linkedin.com/in/pedro-ferreira021)
 * **Email:** pedro_ferreira155@hotmail.com
+
+### My GitHub Stats
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroFerreira3&show_icons=true&theme=transparent&rank_icon=github&border_radius=5)
