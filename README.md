@@ -65,14 +65,19 @@ I have practical experience in modern web application development, utilizing RES
 
 ### Contact
 
-* **LinkedIn:** [linkedin.com/in/pedro-ferreira021](https://www.linkedin.com/in/pedro-ferreira021)
-* **Email:** pedro_ferreira155@hotmail.com
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-ferreira021)
+[![Email](https://img.shields.io/badge/Contact_Me-Email-gray?style=flat-square)](mailto:pedro_ferreira155@hotmail.com)
 
 ---
 
 ### Contribution Activity
-![Snake Animation](https://raw.githubusercontent.com/PedroFerreira3/PedroFerreira3/output/github-contribution-grid-snake-dark.svg)
+
+<p align="left">
+  <img src="https://github.com/PedroFerreira3/PedroFerreira3/blob/output/snake.svg?raw=true" alt="Snake Animation" />
+</p>
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;Systems+Analysis+Student;Python+and+React+Enthusiast" alt="Typing SVG" />
 </p>
+
+---
