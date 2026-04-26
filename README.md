@@ -10,7 +10,7 @@ I have practical experience in modern web application development, utilizing RES
 
 ### Professional Experience
 
-* **Grupo CPCON Brasil | Full Stack Development Intern** (Sep/2025 – Present)
+* **Grupo CPCON Brasil | Full Stack Development Intern** (Sep/2025 – Apr/2026)
     * Application development using Next.js, React, TypeScript, and Tailwind CSS.
     * Backend ecosystem construction with Python (Django and Django REST Framework).
     * Development environment standardization using Docker.
@@ -23,26 +23,11 @@ I have practical experience in modern web application development, utilizing RES
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
-<p align="left">
-  <nobr>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="tailwindcss" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </nobr>
-</p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,py,django,flask,java,postgres,mysql,docker,git,linux&theme=dark" alt="My Skills" />
+</div><br>
 
 * **Core Competencies:** Full Stack Web Development, REST APIs, Object-Oriented Programming (OOP), Code Versioning (GitFlow), Agile Methodologies (Scrum, Kanban), Web Accessibility, Responsive Design, Systems Modeling, and Software Testing (Functional, Regression, Manual).
 
